@@ -389,7 +389,7 @@ margin-top:2em;
   display:none;
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 720px) {
   header {
     font-size: 0.6rem;
     width:100%;
